@@ -1,0 +1,169 @@
+----------------------------->30/06/2017 12:50:39<-----------------------------
+Incio cambio contrase�a usuario: CSC_PWC1
+   contrase�a actual en Ceosa: ILUNION06
+   contrase�a nueva en Ceosa: Ilun_5285
+   clave introducida
+   contrase�a actual en Ceosa: ILUNION06
+   contrase�a nueva en Ceosa: Ilun_5285
+   clave introducida
+Incio cambio contrase�a usuario: CSC_PWC2
+   contrase�a actual en Ceosa: ILUNION06
+   contrase�a nueva en Ceosa: Ilun_5285
+   clave introducida
+   contrase�a actual en Ceosa: ILUNION06
+   contrase�a nueva en Ceosa: Ilun_5285
+   clave introducida
+----------------------------->30/06/2017 12:58:31<-----------------------------
+Incio cambio contrase�a usuario: CSC_PWC1
+   contrase�a actual en Ceosa: ILUNION06
+   contrase�a nueva en Ceosa: Ilun_5285
+   clave introducida
+   contrase�a actual Fundosa: ILUNION06
+   contrase�a nueva Fundosa: Ilun_5285
+   clave introducida
+Incio cambio contrase�a usuario: CSC_PWC2
+   contrase�a actual en Ceosa: ILUNION06
+   contrase�a nueva en Ceosa: Ilun_5285
+   clave introducida
+   contrase�a actual Fundosa: ILUNION06
+   contrase�a nueva Fundosa: Ilun_5285
+   clave introducida
+----------------------------->30/06/2017 02:08:40<-----------------------------
+Incio cambio contraseña usuario: CSC_PWC1
+Incio cambio contraseña usuario: CSC_PWC2
+----------------------------->30/06/2017 02:13:52<-----------------------------
+Incio cambio contraseña usuario: CSC_PWC1
+   contraseña actual en Ceosa: Ilun_5285
+   contraseña nueva en Ceosa: Ilun_5285
+----------------------------->03/07/2017 04:00:14<-----------------------------
+Incio cambio contraseña usuario: CSC_PWC1
+----------------------------->03/07/2017 04:23:43<-----------------------------
+Incio cambio contraseña usuario: CSC_PWC1
+Ha fallado con CSC_PWC1 para Ceoa
+Incio cambio contraseña usuario: CSC_PWC2
+Ha fallado con CSC_PWC2 para Ceoa
+----------------------------->03/07/2017 04:24:02<-----------------------------
+Incio cambio contraseña usuario: CSC_PWC1
+Ha fallado con CSC_PWC1 para Ceoa
+Incio cambio contraseña usuario: CSC_PWC2
+   contraseña actual en Ceosa: Ilun_5285
+   contraseña nueva en Ceosa: Ilun_9873
+----------------------------->03/07/2017 04:29:04<-----------------------------
+Incio cambio contraseña usuario: CSC_PWC1
+Ha fallado con CSC_PWC1 para Ceosa
+Incio cambio contraseña usuario: CSC_PWC2
+Ha fallado con CSC_PWC2 para Ceosa
+----------------------------->03/07/2017 04:32:01<-----------------------------
+Incio cambio contraseña usuario: CSC_PWC1
+   contraseña actual en Ceosa: Ilun_5285
+   contraseña nueva en Ceosa: Ilun_9873
+   clave introducida
+   contraseña actual Fundosa: Ilun_5285
+   contraseña nueva Fundosa: Ilun_9873
+   clave introducida
+Incio cambio contraseña usuario: CSC_PWC2
+   contraseña actual en Ceosa: Ilun_5285
+   contraseña nueva en Ceosa: Ilun_9873
+   clave introducida
+   contraseña actual Fundosa: Ilun_5285
+   contraseña nueva Fundosa: Ilun_9873
+   clave introducida
+----------------------------->03/07/2017 04:50:02<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+   contraseña actual en Ceosa: ILUNION05
+   contraseña nueva en Ceosa: Ilun_9873
+   clave introducida
+   contraseña actual Fundosa: ILUNION05
+   contraseña nueva Fundosa: Ilun_9873
+   clave introducida
+Incio cambio contraseña usuario: UIPATH-2
+   contraseña actual en Ceosa: ILUNION05
+   contraseña nueva en Ceosa: Ilun_9873
+   clave introducida
+   contraseña actual Fundosa: ILUNION05
+   contraseña nueva Fundosa: Ilun_9873
+   clave introducida
+----------------------------->18/08/2017 12:10:18<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+   contraseña actual en Ceosa: Ilun_9873
+   contraseña nueva en Ceosa: Ilun_6471
+   clave introducida
+   contraseña actual Fundosa: Ilun_9873
+   contraseña nueva Fundosa: Ilun_6471
+   clave introducida
+Incio cambio contraseña usuario: UIPATH-2
+   contraseña actual en Ceosa: Ilun_9873
+   contraseña nueva en Ceosa: Ilun_6471
+   clave introducida
+   contraseña actual Fundosa: Ilun_9873
+   contraseña nueva Fundosa: Ilun_6471
+   clave introducida
+----------------------------->01/09/2017 12:33:50<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+   contraseña actual en Ceosa: Ilun_6471
+   contraseña nueva en Ceosa: Ilun_3606
+   clave introducida
+   contraseña actual Fundosa: Ilun_6471
+   contraseña nueva Fundosa: Ilun_3606
+   clave introducida
+----------------------------->01/09/2017 12:36:26<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+Ha fallado con UIPATH-1 para Ceosa
+Incio cambio contraseña usuario: UIPATH-2
+Ha fallado con UIPATH-2 para Ceosa
+----------------------------->01/09/2017 12:37:10<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+Ha fallado con UIPATH-1 para Ceosa
+Incio cambio contraseña usuario: UIPATH-2
+Ha fallado con UIPATH-2 para Ceosa
+----------------------------->01/09/2017 12:38:59<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+   contraseña actual en Ceosa: Ilun_3606
+   contraseña nueva en Ceosa: Ilun_3605
+----------------------------->02/09/2017 02:00:03<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+   contraseña actual en Ceosa: Ilun_3606
+   contraseña nueva en Ceosa: Ilun_3605
+   clave introducida
+   contraseña actual Fundosa: Ilun_3606
+   contraseña nueva Fundosa: Ilun_3605
+   clave introducida
+Incio cambio contraseña usuario: UIPATH-2
+   contraseña actual en Ceosa: 
+   contraseña nueva en Ceosa: Ilun_3605
+   contraseña actual en Ceosa: 
+   contraseña nueva en Ceosa: Ilun_3605
+Ha fallado con UIPATH-2 para Ceosa
+----------------------------->04/09/2017 10:08:37<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+Ha fallado con UIPATH-1 para Ceosa
+Incio cambio contraseña usuario: UIPATH-2
+Ha fallado con UIPATH-2 para Ceosa
+----------------------------->05/09/2017 09:40:57<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+   contraseña actual en Ceosa: Ilun_3605
+   contraseña nueva en Ceosa: Ilun_3605
+   clave introducida
+   contraseña actual Fundosa: Ilun_3605
+   contraseña nueva Fundosa: Ilun_3605
+   clave introducida
+Incio cambio contraseña usuario: UIPATH-2
+   contraseña actual en Ceosa: 
+   contraseña nueva en Ceosa: Ilun_3605
+   contraseña actual en Ceosa: 
+   contraseña nueva en Ceosa: Ilun_3605
+Ha fallado con UIPATH-2 para Ceosa
+----------------------------->05/09/2017 09:56:35<-----------------------------
+Incio cambio contraseña usuario: UIPATH-1
+   contraseña actual en Ceosa: Ilun_3605
+   contraseña nueva en Ceosa: Ilun_3605
+   clave introducida
+   contraseña actual Fundosa: Ilun_3605
+   contraseña nueva Fundosa: Ilun_3605
+   clave introducida
+Incio cambio contraseña usuario: UIPATH-2
+   contraseña actual en Ceosa: Ilun_3605
+   contraseña nueva en Ceosa: Ilun_3605
+   contraseña actual en Ceosa: Ilun_3605
+   contraseña nueva en Ceosa: Ilun_3605
+Ha fallado con UIPATH-2 para Ceosa
